@@ -1,0 +1,20 @@
+#ignore everything
+*
+
+#Not These
+!.gitignore
+
+!src
+!src/
+!src/**
+
+!libs
+!libs/
+!libs/**
+
+!Maps
+!Maps/
+!Maps/**
+
+!*.txt
+!*.md
